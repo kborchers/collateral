@@ -41,5 +41,10 @@ __AEROGEAR-129__
 * Timing for that 
  * Post other AEROGEAR-120 tasks
  * At the same time as AEROGEAR-126
- 
- 
+
+Miscelaneous
+---------
+
+__Agenda Links__
+
+*Discuss adding links to Community Calendar and IRC Topic
